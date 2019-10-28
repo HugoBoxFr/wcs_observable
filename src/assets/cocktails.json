@@ -1,0 +1,24 @@
+[
+    {
+      "name" : "Cuba Libre",
+      "price" : 9,
+      "img" : "https://assets.afcdn.com/recipe/20190222/88149_w1024h768c1cx2674cy1783cxt0cyt0cxb5346cyb3561.jpg"
+    },
+    {
+      "name" : "Mojito",
+      "price" : 10,
+      "img" : "https://assets.afcdn.com/recipe/20180705/80255_w648h344c1cx2774cy1849cxt0cyt0cxb5541cyb3691.jpg"
+    },
+    {
+      "name" : "Pina Colalda",
+      "price" : 7,
+      "img" : "https://assets.afcdn.com/recipe/20180605/79412_w800h600c1cx2000cy3000cxt0cyt0cxb4000cyb6000.jpg"
+    },
+    {
+      "name" : "Tom Collins",
+      "price" : 8,
+      "img" : "https://assets.afcdn.com/recipe/20180903/82120_w648h344c1cx1060cy707cxt0cyt0cxb2118cyb1412.jpg"
+    }
+]
+
+
